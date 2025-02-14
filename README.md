@@ -20,6 +20,8 @@ Patrika transforms your wall-mounted display into a living newspaper, aggregatin
 - **Self-hosted**: Complete control over your data and privacy
 
 ### Information Sources
+- Live News Updates from your chosen sources and topics
+- Live Sports scores of your choice
 - Plex Media Updates
 - YouTube Channel Summaries
 - Home Assistant Integration
